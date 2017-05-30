@@ -4,14 +4,14 @@
 }
 
 body{
-	color:#666;
+	color:#d1731d;
 	font-size:13px;
-	background:#f4f4f4;
+	background:#f08f36;
 	font-family:"Arial", sans-serif;
 }
 
 #container{
-	margin:15px auto;
+	margin:100px auto;
 	text-align:center;
 	width:900px;
 	position:relative;
@@ -40,12 +40,8 @@ header{
 }
 
 #slider{
-	-moz-box-shadow:0 0 3px #aaaaaa;
 	-webkit-box-shadow:0 0 3px #aaaaaa;
 	box-shadow:0 0 3px #aaaaaa;
-	
-	-moz-border-radius:5px;
-	-webkit-border-radius:5px;
 	border-radius:5px;
 	
 	background:url(../img/panel.jpg) repeat-x bottom center #ffffff;
