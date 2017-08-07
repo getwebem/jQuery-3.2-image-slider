@@ -6,23 +6,7 @@
  - Run :  `Brackets .`
  - Open :  `Index.html`
  - Browser:  `Live Preview`  
+ - [View Demo](http://getwebem.com/sliderPics/)  
 
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/sliderPics/Screen%20Shot%202017-08-07%20at%2022.05.41.png)
 <br/><br/>
-<br/><br/>
-<br/><br/>
-![pic1](https://raw.githubusercontent.com/getwebem/README/master/sliderPics/Screen%20Shot%202017-05-30%20at%2008.52.14.png)
-<br/><br/>
-
-<br/><br/>
-![pic2](https://raw.githubusercontent.com/getwebem/README/master/sliderPics/Screen%20Shot%202017-05-30%20at%2008.52.24.png)
-<br/><br/>
-
-<br/><br/>
-![pic3](https://raw.githubusercontent.com/getwebem/README/master/sliderPics/Screen%20Shot%202017-05-30%20at%2008.52.34.png)
-<br/><br/>
-
-<br/><br/>
-![pic4](https://raw.githubusercontent.com/getwebem/README/master/sliderPics/Screen%20Shot%202017-05-30%20at%2008.52.44.png)
-<br/><br/>
-
-
